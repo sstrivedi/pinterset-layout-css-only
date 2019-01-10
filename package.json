@@ -24,5 +24,6 @@
   },
   "dependencies": {
     "node-reset-scss": "^1.0.1"
-  }
+  },
+  "homepage": "https://sstrivedi.github.io/pinterst-layout-css-only/"
 }
